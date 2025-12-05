@@ -10,3 +10,4 @@ print(list_meses[-1])  #chama o último elemento
 print(list_meses[1:4])  #Imprime a partir do índice 1 até o 4-1 (Não vai até o final)
 print(list_meses[2:])  #Imprime a partir do índice 2 até o final.
 print(list_meses[:4])  #Imprime a partir do índice 0 até o 5-1
+print(list_meses[0:4:2])  #De dois em dois até o 5-1
